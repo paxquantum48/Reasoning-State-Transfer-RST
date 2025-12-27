@@ -19,3 +19,6 @@ provide appropriate attribution to this original disclosure.
 This repository intentionally omits proprietary implementation details
 and is published for the purpose of transparent prior disclosure, not as
 an exhaustive or exclusive specification.
+
+📄 **Whitepaper (PDF):**  
+[Reasoning State Transfer (RST) Architecture – First Public Technical Disclosure](Reasoning_State_Transfer_RST_Architecture.pdf)
